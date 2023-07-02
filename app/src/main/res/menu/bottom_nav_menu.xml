@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_top"
+        android:icon="@drawable/baseline_star_border_24"
+        android:title="@string/title_top" />
+
+    <item
+        android:id="@+id/navigation_apps"
+        android:icon="@drawable/baseline_apps_24"
+        android:title="@string/title_apps" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/baseline_perm_identity_24"
+        android:title="@string/title_profile" />
+
+</menu>
